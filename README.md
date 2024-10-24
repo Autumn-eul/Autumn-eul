@@ -1,5 +1,5 @@
-## Hi BlueLight 👋
-
+## Hi there 👋
+I'm a passionate backend developer and aspiring full-stack developer from Korea.
 <!--
 **Autumn-eul/Autumn-eul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Beginner+Developer!;I+Will+Become+a+Backend+Developer!)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-eul&layout=compact)
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
