@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hi 👋, I'm <a href="https://longtao.fun">Longtao</a></h3>
+    <h3>Hi 👋</h3>
     <p align="center">
-        <a href="https://longtao.fun">
-            <img src="cat.webp" width="50"/>
-        </a>
+        <img src="https://item.kakaocdn.net/do/b197d90856fc2a252669d816a60f9de4f43ad912ad8dd55b04db6a64cddaf76d" width="50"/>
     </p>
