@@ -21,4 +21,11 @@ Here are some ideas to get you started:
         <img src="https://item.kakaocdn.net/do/1a9eb84f3b78a8bfe07567e797663ac7f43ad912ad8dd55b04db6a64cddaf76d" width="50"/>
     </p>
 
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-eul)](https://github.com/anuraghazra/github-readme-stats)
