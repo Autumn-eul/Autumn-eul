@@ -54,6 +54,17 @@ Here are some ideas to get you started:
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div align= "center">
+  <div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-eul&layout=compact&bg_color=60,2e95f5,ccf0ff&title_color=ffffff&text_color=ffffff"/>
+  </div>
+</div>
+<br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Autumn-eul})](https://solved.ac/{Autumn-eul})
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={Autumn-eul}&theme=cold)
 
 ![Antumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Autumn-eul&show_icons=true&theme=cobalt)
+
