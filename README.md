@@ -20,3 +20,5 @@ Here are some ideas to get you started:
     <p align="center">
         <img src="https://item.kakaocdn.net/do/1a9eb84f3b78a8bfe07567e797663ac7f43ad912ad8dd55b04db6a64cddaf76d" width="50"/>
     </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-eul)](https://github.com/anuraghazra/github-readme-stats)
