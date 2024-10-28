@@ -54,4 +54,6 @@ Here are some ideas to get you started:
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn-eul)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Antumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Autumn-eul&show_icons=true&theme=cobalt)
