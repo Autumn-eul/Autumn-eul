@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lolll})](https://solved.ac/{lolll})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lolll)](https://solved.ac/lolll/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={lolll}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lolll&theme=cold)
 
 ![Antumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Autumn-eul&show_icons=true&theme=cobalt)
 
