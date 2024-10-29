@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lolll)](https://solved.ac/lolll/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Autumn-eul)](https://solved.ac/Autumn-eul/)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lolll&theme=cold)
 
