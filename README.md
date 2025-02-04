@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <table align="center">
     <tr>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
-
+-->
 
 <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;">
 
